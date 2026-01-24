@@ -1,1 +1,2 @@
-# Hello, I am Iryna, Full-Stack Developer with focus on Frontend.
+# Hello, I am Iryna.
+I am a Full-Stack Developer with focus on Frontend.
