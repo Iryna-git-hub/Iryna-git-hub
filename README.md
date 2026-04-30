@@ -1,4 +1,4 @@
-# Hi, I'm Iryna Lopatina 👋
+# Hi, I'm Iryna 👋
 
 ### Frontend-oriented Full-Stack Developer with a strong UX/UI background
 
