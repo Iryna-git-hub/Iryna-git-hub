@@ -61,6 +61,5 @@ A responsive weather application that fetches real-time data from the OpenWeathe
 
 - Portfolio: https://irynadev.netlify.app
 - LinkedIn: https://linkedin.com/in/iryna-lopatina
-- GitHub: https://github.com/Iryna-git-hub
 - Email: lopatina.iryna@gmail.com
 
