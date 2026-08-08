@@ -11,7 +11,7 @@ I have a UX/UI background, which helps me create interfaces that are clear, visu
 ## Tech Stack
 
 **Languages:** JavaScript ES6+, HTML5, CSS3, SQL, Python, C  
-**Frontend:** React, TailwindCSS, Bootstrap, Responsive Design, WordPress  
+**Frontend:** React, Next.js, TailwindCSS, Bootstrap, Responsive Design
 **Backend:** Node.js, Flask, REST APIs, SQLite  
 **Tools:** Git, GitHub, Postman, VS Code, Trello  
 **Currently improving:** TypeScript, testing, backend architecture
