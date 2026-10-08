@@ -1,20 +1,26 @@
 # Hi, I'm Iryna 👋
 
-### Frontend-oriented Full-Stack Developer with a strong UX/UI background
+Frontend-oriented full-stack developer with 10+ years in frontend and UX/UI, based in Copenhagen, Denmark. I build responsive, accessible web apps with React, Next.js and TypeScript, and I like owning a feature from the first conversation with the user to production.
 
-I build responsive, accessible, and user-friendly web applications with a strong focus on clean frontend implementation, practical full-stack functionality, and product quality.
+Mentor at [HackYourFuture Denmark](https://hackyourfuture.dk).
 
-I have a UX/UI background, which helps me create interfaces that are clear, visually consistent, and easy to use.
+## Tech stack
 
----
+**Languages:** TypeScript · JavaScript (ES6+) · HTML5 · CSS3 · SQL · Python · C
 
-## Tech Stack
+**Frontend:** React · Next.js · Tailwind CSS · Bootstrap · Responsive design · Accessibility (WCAG) · UX/UI
 
-**Languages:** JavaScript ES6+, HTML5, CSS3, SQL, Python, C  
-**Frontend:** React, Next.js, TailwindCSS, Bootstrap, Responsive Design  
-**Backend:** Node.js, Flask, REST APIs, SQLite  
-**Tools:** Git, GitHub, Postman, VS Code, Trello  
-**Currently improving:** TypeScript, testing, backend architecture
+**Backend:** Node.js · Flask · REST APIs · SQLite
+
+**Tools:** Git · GitHub · Postman · VS Code · Trello · Claude Code · Codex
+
+**Methodologies:** Agile / Scrum
+
+## Currently learning
+
+- Microsoft Azure: AZ-900 (Azure Fundamentals) and AI-200 (Developing AI Cloud Solutions on Azure), exam preparation in progress
+- Software architecture (masterclass with Simon Brown, GOTO Copenhagen)
+- Testing and backend architecture
 
 ---
 
@@ -59,7 +65,5 @@ A responsive weather application that fetches real-time data from the OpenWeathe
 
 ## Contact
 
-- Portfolio: https://irynadev.netlify.app
-- LinkedIn: https://linkedin.com/in/iryna-lopatina
-- Email: lopatina.iryna@gmail.com
-
+Email: lopatina.iryna@gmail.com
+[Portfolio](https://irynadev.netlify.app) · [LinkedIn](https://linkedin.com/in/iryna-lopatina) · [Behance](https://www.behance.net/IrynaLopatina)
