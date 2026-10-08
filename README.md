@@ -66,4 +66,5 @@ A responsive weather application that fetches real-time data from the OpenWeathe
 ## Contact
 
 Email: lopatina.iryna@gmail.com
+
 [Portfolio](https://irynadev.netlify.app) · [LinkedIn](https://linkedin.com/in/iryna-lopatina) · [Behance](https://www.behance.net/IrynaLopatina)
