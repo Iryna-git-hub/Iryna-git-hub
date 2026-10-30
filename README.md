@@ -41,7 +41,7 @@ My personal portfolio website presents selected web development projects.
 
 **Focus:** personal branding, responsive layout, project presentation, visual consistency, and clear communication.
 
-**Tech:** HTML, CSS, JavaScript, Responsive Design
+**Tech:** HTML, Tailwind, JavaScript, Responsive Design
 
 ---
 
