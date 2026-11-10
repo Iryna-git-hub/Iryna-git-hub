@@ -25,23 +25,21 @@ Mentor at [HackYourFuture Denmark](https://hackyourfuture.dk).
 ---
 
 ## Featured Projects
-<!--
-### RORUM — Corporate Full-Stack Website
 
-A corporate website developed for a creative and event agency in Copenhagen.
+### [RORUM — Multilingual Corporate Website](https://rorum-demo.vercel.app/)
+
+A website in English, Danish, and Ukrainian with editable content through Sanity CMS and automated testing.
 
 **Focus:** responsive UI, frontend/backend integration, accessibility, testing, debugging, and deployment.  
-**Tech:** JavaScript, TailwindCSS, Next.js, REST API, Database
+**Tech:** Next.js, TypeScript, Tailwind CSS, Sanity, Playwright, Vitest
 
 ---
--->
-### [Portfolio Website](https://irynadev.netlify.app)
 
-My personal portfolio website presents selected web development projects.
+### [GoEvent Copenhagen — Event Ticketing Platform](https://ticketing-platform-plum.vercel.app/)
 
-**Focus:** personal branding, responsive layout, project presentation, visual consistency, and clear communication.
+A frontend application for discovering events and booking tickets, with authentication, cart management, and checkout validation.
 
-**Tech:** HTML, Tailwind, JavaScript, Responsive Design
+**Tech:** React, JavaScript, Vite, React Router, Mock REST API
 
 ---
 
@@ -50,18 +48,10 @@ My personal portfolio website presents selected web development projects.
 An interactive memory game where card data is fetched from a database and rendered dynamically in the UI.
 
 **Focus:** game logic, API data fetching, database integration, and interactive UI.  
-**Tech:** JavaScript, Node.js, REST API, Database
+**Tech:** JavaScript, Node.js, REST API, Express, SQLite
 
 ---
 
-### [Weather App](https://iryna-git-hub.github.io/Weather_app/)
-
-A responsive weather application that fetches real-time data from the OpenWeather API.
-
-**Focus:** API integration, asynchronous JavaScript, responsive UI, and error handling.  
-**Tech:** JavaScript, HTML, CSS, OpenWeather API
-
----
 
 ## Contact
 
